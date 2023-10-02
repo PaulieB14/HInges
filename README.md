@@ -1,4 +1,3 @@
-# Hinges
 
 ![Hinges Logo](https://h-inges-ofk73z6ep-paulieb14.vercel.app/assets/images/HingesIO_Logo_Purple_white-543ea805629ca3cca78154edc21046d2.png)
 
