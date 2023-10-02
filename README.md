@@ -1,44 +1,34 @@
-# Website
+# Hinges
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+![Hinges Logo](https://h-inges-ofk73z6ep-paulieb14.vercel.app/assets/images/HingesIO_Logo_Purple_white-543ea805629ca3cca78154edc21046d2.png)
 
-### Installation
+## Introduction
 
-```
-$ yarn
-```
+Welcome to the official GitHub repository for HInges - The World’s First Inclusive Dynamic Store of Value. At HInges, we aim to revolutionize the digital currency space by combining the principles of CeDeFi, NFTs, and Gaming.
 
-### Local Development
+## Quick Links
 
-```
-$ yarn start
-```
+- 🌐 [Official Website](https://hinges.io)
+- 🐦 [Twitter](https://twitter.com/hingesHQ)
+- 🗣️ [Telegram](https://t.me/hinges_EN)
+- 📖 [Documentation](https://h-inges-ofk73z6ep-paulieb14.vercel.app/)
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## About Hinges
 
-### Build
+Hinges is more than just a digital currency; it's a movement to create an inclusive digital ecosystem that's both dynamic and value-driven. Whether you're interested in decentralized finance, want to explore the ever-evolving world of NFTs, or are passionate about gaming, HInges offers something for everyone.
 
-```
-$ yarn build
-```
+## Features
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+- **CeDeFi**: Combine the transparency and control of decentralized finance with the ease and security of centralized systems.
+  
+- **NFTs**: Explore a vibrant marketplace for digital assets, ensuring authenticity and uniqueness.
+  
+- **Gaming**: Dive into immersive gaming experiences, made even more rewarding with the integration of HInges.
 
-### Deployment
+## Documentation
 
-Using SSH:
+I've created comprehensive documentation for this project to help you get familiar with Hinges, its features, and functionalities. You can explore the full documentation on our [Vercel site](https://h-inges-ofk73z6ep-paulieb14.vercel.app/).
 
-```
-$ USE_SSH=true yarn deploy
-```
+## Support
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-# Hedgeplus-io-docs
-# Hedgeplus-io-docs
-# Hedgeplus-docs
+For any queries or support related to HInges, feel free to reach out to us via [Telegram](https://t.me/hinges_EN) or [Twitter](https://twitter.com/hingesHQ).
