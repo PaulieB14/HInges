@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to the official GitHub repository for HInges - The World’s First Inclusive Dynamic Store of Value. At HInges, we aim to revolutionize the digital currency space by combining the principles of CeDeFi, NFTs, and Gaming.
+Welcome to the documentation GitHub repository for Hinges - The World’s First Inclusive Dynamic Store of Value. At Hinges, they revolutionize the digital currency space by combining the principles of CeDeFi, NFTs, and Gaming.
 
 ## Quick Links
 
