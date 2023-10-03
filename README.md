@@ -3,6 +3,8 @@
 
 ## Introduction
 
+Hinges has not yet launched and my contribution to the project is helping create a docs page with Docusarus. 
+
 Welcome to the documentation GitHub repository for Hinges - The World’s First Inclusive Dynamic Store of Value. At Hinges, they revolutionize the digital currency space by combining the principles of CeDeFi, NFTs, and Gaming.
 
 ## Quick Links
